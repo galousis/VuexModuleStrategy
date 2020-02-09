@@ -1,2 +1,0 @@
-# VuexModuleStrategy
-Created with CodeSandbox
